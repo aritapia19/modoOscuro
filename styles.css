@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f9eaea; /* Color de fondo rosa pastel */
+}
+
+.navbar-brand {
+    font-weight: 700;
+    color: #ff7eb9; /* Color de texto rosa pastel */
+}
+
+
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255,126,185,0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.table thead th {
+    font-weight: 700;
+}
+
+/* Botones */
+.btn-light {
+    background-color: #ffb3d9; /* Color de fondo rosa pastel */
+    border-color: #ffb3d9; /* Color del borde rosa pastel */
+    color: #fff; /* Color de texto blanco */
+}
+
+.btn-light:hover {
+    background-color: #ff7eb9; /* Color de fondo rosa pastel más oscuro */
+    border-color: #ff7eb9; /* Color del borde rosa pastel más oscuro */
+    color: #fff; /* Color de texto blanco */
+}
+
+.btn-dark {
+    background-color: #333; /* Color de fondo oscuro */
+    border-color: #333; /* Color del borde oscuro */
+}
+
+.btn-dark:hover {
+    background-color: #000; /* Color de fondo oscuro más oscuro */
+    border-color: #000; /* Color del borde oscuro más oscuro */
+}
+
+
